@@ -1,7 +1,7 @@
 # Teymia Expense
 
 A personal, production-ready expense tracking app for iPhone, iPad and Mac. Built to demonstrate modern Apple platform APIs, clean architecture and a polished user experience — suitable for a product portfolio.
-
+ 
 ## 📱 Screenshots
 
 <div align="center">
